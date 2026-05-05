@@ -1,25 +1,25 @@
 import { TeamMember } from "@/types/team";
 
 export const pioneers: TeamMember[] = [
-  {
-    id: "founder",
-    name: "Kavali Deekshith",
-    role: "CEO & Co-Founder",
-    description:
-      "Kavali Deekshith is the Co-Founder & CEO of NirveonX, leading AI-driven healthcare innovation with strong leadership and strategic vision. A B.Tech AI & ML student at JNTUH, he is a visionary entrepreneur, AI innovator, and dynamic leader known for his decision-making, problem-solving, and team-building skills. A CBSE merit holder and national-level science project winner, he blends technical expertise, business acumen, and creativity to drive impactful change in healthcare and AI.",
-    avatar:
-      "https://res.cloudinary.com/dnfq7ty1x/image/upload/v1760813259/nirveon-ceo_1_ctxoiy.png",
-  },
-  {
-    id: "CEO",
-    name: "Ayush Kumar Sahoo",
-    role: "Co-Founder & CMO",
-    description:
-      "Ayush Kumar Sahoo is the Co-Founder and Chief Marketing Officer at NirveonX, where he turns vision into viable strategy. A final-year BTech student at NIT Rourkela, Ayush brings technical rigor and financial focus to every decision. He keeps the numbers sharp and the mission steady - shaping business models, managing budgets, and building financial systems that fuel sustainable growth. From driving fundraising efforts to optimizing costs and ensuring compliance, Ayush makes sure every step forward is financially sound and purpose-driven. With a clear eye on both impact and investment, he helps NirveonX scale responsibly in the world of AI-powered healthcare.",
-    avatar:
-      "https://res.cloudinary.com/dnfq7ty1x/image/upload/v1760890383/WhatsApp_Image_2025-10-19_at_16.31.24_cd8a8d79_plappd.jpg",
-  },
-  {
+  // {
+  //   id: "founder",
+  //   name: "Kavali Deekshith",
+  //   role: "CEO & Co-Founder",
+  //   description:
+  //     "Kavali Deekshith is the Co-Founder & CEO of NirveonX, leading AI-driven healthcare innovation with strong leadership and strategic vision. A B.Tech AI & ML student at JNTUH, he is a visionary entrepreneur, AI innovator, and dynamic leader known for his decision-making, problem-solving, and team-building skills. A CBSE merit holder and national-level science project winner, he blends technical expertise, business acumen, and creativity to drive impactful change in healthcare and AI.",
+  //   avatar:
+  //     "https://res.cloudinary.com/dnfq7ty1x/image/upload/v1760813259/nirveon-ceo_1_ctxoiy.png",
+  // },
+  // {
+  //   id: "CEO",
+  //   name: "Ayush Kumar Sahoo",
+  //   role: "Co-Founder & CMO",
+  //   description:
+  //     "Ayush Kumar Sahoo is the Co-Founder and Chief Marketing Officer at NirveonX, where he turns vision into viable strategy. A final-year BTech student at NIT Rourkela, Ayush brings technical rigor and financial focus to every decision. He keeps the numbers sharp and the mission steady - shaping business models, managing budgets, and building financial systems that fuel sustainable growth. From driving fundraising efforts to optimizing costs and ensuring compliance, Ayush makes sure every step forward is financially sound and purpose-driven. With a clear eye on both impact and investment, he helps NirveonX scale responsibly in the world of AI-powered healthcare.",
+  //   avatar:
+  //     "https://res.cloudinary.com/dnfq7ty1x/image/upload/v1760890383/WhatsApp_Image_2025-10-19_at_16.31.24_cd8a8d79_plappd.jpg",
+  // },
+  { 
     id: "Co-founder",
     name: "Sumedha Musunuri",
     role: "CWO",
